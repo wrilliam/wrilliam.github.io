@@ -4,3 +4,6 @@
 [submodule "Curriculum"]
 	path = Curriculum
 	url = https://github.com/wrilliam/Curriculum
+[submodule "Web"]
+	path = Web
+	url = https://github.com/wrilliam/Web
