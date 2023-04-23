@@ -28,4 +28,4 @@ Content:
 - <a href="Web/calculadora/index.html">Basic JavaScript</a>
 - <a href="Web/matamosquito/index.html">Intermediate JavaScript</a>
 - <a href="Web/orcamentopessoal/index.html">Modern JavaScript, ES6 and OOP</a>
-- <a href="Web/app_help_desk/index.html">PHP 7</a>
+- <a href="Web/app_help_desk/index.php">PHP 7</a>
