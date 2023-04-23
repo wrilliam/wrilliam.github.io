@@ -28,4 +28,4 @@ Content:
 - <a href="Web/calculadora/index.html">A calculator; basic JavaScript</a>
 - <a href="Web/matamosquito/index.html">A minigame; intermediate JavaScript</a>
 - <a href="Web/orcamentopessoal/index.html">A personal budget database; modern JavaScript, ES6 and OOP</a>
-- <iframe src="Web/app_help_desk">PHP 7</iframe>
+- <iframe src="https://wrilliam.github.io/Web/app_help_desk">PHP 7</iframe>
