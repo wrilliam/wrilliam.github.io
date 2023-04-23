@@ -2,6 +2,8 @@
 
 <p>Welcome to my (git)hub. It's constantly improving; so, it might be a bit messy, but feel free to browse.</p>
 <p><a href="Whimsical/logo.html">Here's</a> a little chunk of what I can do using HTML and CSS only.</p>
+
+## Curriculum
 <p>
   Wanna see my professional profile? Sure, just click <a href="Curriculum/vitae.en.html">here</a>. 
   Or <a href="Curriculum/vitae.pt.html">here</a> if you're a Portuguese speaker.
@@ -17,14 +19,14 @@ NOTE: For drafts that include PHP, XAMPP must be installed and their directory m
 
 Content:
 
-- <a href="Web/unes/index.html">HTML5</a>
-- <a href="Web/annabella/index.html">Basic CSS3, part 1</a>
-- <a href="Web/tecblog/index.html">Basic CSS3, part 2</a>
-- <a href="Web/noticiascidade/index.html">Intermediate CSS3</a>
-- <a href="Web/chalehotel/index.html">Advanced CSS3, part 1</a>
-- <a href="Web/museunacional/index.html">Advanced CSS3, part 2</a>
-- <a href="Web/finans/index.html">Bootstrap 4 and responsiveness, part 1</a>
-- <a href="Web/spotify/index.html">Bootstrap 4 and responsiveness, part 2</a>
-- <a href="Web/calculadora/index.html">Basic JavaScript</a>
-- <a href="Web/matamosquito/index.html">Intermediate JavaScript</a>
-- <a href="Web/orcamentopessoal/index.html">Modern JavaScript, ES6 and OOP</a>
+- <a href="Web/unes/index.html">A university website; only HTML5</a>
+- <a href="Web/annabella/index.html">A model website; basic CSS3</a>
+- <a href="Web/tecblog/index.html">A blog; basic CSS3</a>
+- <a href="Web/noticiascidade/index.html">A web journal; intermediate CSS3</a>
+- <a href="Web/chalehotel/index.html">A hotel website; advanced CSS3</a>
+- <a href="Web/museunacional/index.html">A museum website; advanced CSS3</a>
+- <a href="Web/finans/index.html">A bank website; Bootstrap 4 and responsiveness</a>
+- <a href="Web/spotify/index.html">An older version of the Spotify website; Bootstrap 4 and responsiveness</a>
+- <a href="Web/calculadora/index.html">A calculator; basic JavaScript</a>
+- <a href="Web/matamosquito/index.html">A minigame; intermediate JavaScript</a>
+- <a href="Web/orcamentopessoal/index.html">A personal budget database; modern JavaScript, ES6 and OOP</a>
